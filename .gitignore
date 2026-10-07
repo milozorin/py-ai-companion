@@ -1,0 +1,16 @@
+# IDE 配置
+.idea/
+
+# 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 机密信息
+*.env
+.secrets/
+
+# 本地运行产生的数据
+sessions/
